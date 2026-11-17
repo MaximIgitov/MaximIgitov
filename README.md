@@ -27,7 +27,7 @@ At **GOJI Studio**, we take a business problem from the first prototype to a wor
 **Research ML · T-Bank** — May 2025–present  
 Successfully contributed to an automated Java project migration tool.
 
-**Research ML · ITMO University** — A. A. Gorgadze's research group  
+**Research ML · NIRMA, ITMO University**  
 Working on interpretable machine-learning models for real-estate valuation, including the contribution of property characteristics, location and the urban environment.
 
 ## Selected public code
