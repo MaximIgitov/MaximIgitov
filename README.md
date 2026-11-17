@@ -1,4 +1,4 @@
-<p><a href="https://t.me/MaksIgitov"><img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-0F766E?style=flat-square" alt="Open to opportunities"></a> &nbsp; <a href="README.ru.md">Русский</a></p>
+<p><a href="https://github.com/MaximIgitov/MaximIgitov/blob/main/README.ru.md"><img src="https://img.shields.io/badge/Русский-0969DA?style=for-the-badge" alt="Русский"></a> &nbsp; <a href="https://t.me/MaksIgitov"><img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-0F766E?style=flat-square" alt="Open to opportunities"></a></p>
 
 # Maksim Igitov
 
@@ -90,18 +90,31 @@ Founder of **[GOJI Studio](https://goji.studio/)** and **[Eval Tech](https://est
 **Speaking** · Podlodka Java Crew (2025).
 
 <details>
-<summary><strong>More hackathon & case competition results</strong></summary>
+<summary><strong>All hackathons & competitions · 2022–2026</strong></summary>
 
-| Result | Competition |
-| :--- | :--- |
-| **1st** | Cup IT 2025 · Data Analytics |
-| **2nd** | AI Business Hack 2026 · LLM service desk |
-| **2nd** | AI for Finance Hack 2025 |
-| **2nd** | Cup IT 2024 · Data Analytics |
-| **2nd** | ITMO × Kontur 2024; Urbaton 2023 |
-| **3rd** | Alfa Hack 2024 · AutoML; RLT.Hack 2024 |
-| **3rd + High Quality Awards** | Cup Moscow 2024 |
-| **Finalist + Best Presentation** | X5 Tech AI Hack 2024 · Hallucination detection |
+| Date | Competition | Result |
+| :--- | :--- | :--- |
+| Apr 2026 | AI Business Hack · LLM service desk | **2nd** |
+| Jan 2026 | ITMO Megaschool · Artificial Intelligence | **Prize winner** |
+| Dec 2025 | AI for Finance Hack | **2nd** |
+| Apr 2025 | Changellenge Cup IT · Data Analytics | **1st** |
+| 2025 | Pyaterochka “Healthy Olympiad” | **Winner & prize winner** |
+| Dec 2024 | Changellenge Cup Moscow | **3rd + High Quality Awards** |
+| Dec 2024 | Alfa Hack · AutoML | **3rd** |
+| Oct 2024 | Ostrovok “O! Hackathon” · Rate tagging | **Laureate** |
+| Sep 2024 | RLT.Hack | **3rd** |
+| Jun 2024 | ITMO × Kontur case competition | **2nd** |
+| May 2024 | X5 Tech AI Hack · Hallucination detection | **Finalist + Best Presentation** |
+| Apr 2024 | Changellenge Cup Russia | **Finalist** |
+| Apr 2024 | Changellenge Cup IT · Data Analytics | **2nd + Best Teamwork** |
+| Apr 2024 | DubnaTECH · Billing system | **Second-degree diploma** |
+| Feb 2024 | Selectel Hackathon | **Finalist** |
+| 2024 | Alfa Case Camp | Participant |
+| Nov 2023 | Urbaton | **2nd** |
+| Sep–Nov 2023 | FINOPOLIS.365 hackathon · AI & ML; prototype exhibition · Collateral valuation | **Hackathon finalist**; exhibition participant |
+| May 2023 | Peter the Great Case Championship · Magnit case | **Finalist** |
+| Apr 2023 | Changellenge Cup IT · Product track | **High Quality Awards** |
+| Nov 2022 | Baltika Breweries Case · ITMO | **2nd** |
 
 </details>
 
