@@ -2,25 +2,25 @@
 
 # Maksim Igitov
 
-I build AI products, do research and compete in hackathons.  
+I build AI products, do research and compete in hackathons.<br>
 Founder of **[GOJI Studio](https://goji.studio/)** and **[Eval Tech](https://estate-valuation-test.tech/)**. Based in Saint Petersburg.
 
-**[Telegram ↗](https://t.me/MaksIgitov)** &nbsp; / &nbsp; **[Email ↗](mailto:mdigitov@itmo.ru)** &nbsp; / &nbsp; [Kaggle ↗](https://www.kaggle.com/maxigitov)
+**[Telegram ↗︎](https://t.me/MaksIgitov)** &nbsp; / &nbsp; **[Email ↗︎](mailto:mdigitov@itmo.ru)** &nbsp; / &nbsp; [Kaggle ↗︎](https://www.kaggle.com/maxigitov)
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
-<h2>20+</h2>
+<td width="300" valign="top">
+<h1>20+</h1>
 <strong>Prize-winning finishes</strong><br>
 <sub>Hackathons &amp; case competitions</sub>
 </td>
-<td width="33%" valign="top">
-<h2>1st</h2>
+<td width="300" valign="top">
+<h1>1st</h1>
 <strong>Cup IT 2025</strong><br>
 <sub>Data Analytics</sub>
 </td>
-<td width="33%" valign="top">
-<h2>2026</h2>
+<td width="300" valign="top">
+<h1>2026</h1>
 <strong>ITMO Best Graduate</strong><br>
 <sub>Entrepreneurship</sub>
 </td>
@@ -29,7 +29,7 @@ Founder of **[GOJI Studio](https://goji.studio/)** and **[Eval Tech](https://est
 
 ### Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="24%" valign="top"><sub>MAY 2025 — PRESENT</sub></td>
 <td><strong>T-Bank · Research ML</strong><br>Successfully contributed to an automated Java project migration tool.</td>
@@ -42,39 +42,39 @@ Founder of **[GOJI Studio](https://goji.studio/)** and **[Eval Tech](https://est
 
 ### Products & companies
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://estate-valuation-test.tech/">Eval Tech ↗</a></h3>
+<h3><a href="https://estate-valuation-test.tech/">Eval Tech ↗︎</a></h3>
 <p>Property valuation using listings, geodata and urban-environment data, with an explanation of what drives the price.</p>
-<p><strong>Contracts</strong> with a major financial company and a real-estate group. <a href="https://valor.aksion.es/">Pilot in Spain ↗</a></p>
+<p><strong>Contracts</strong> with a major financial company and a real-estate group. <a href="https://valor.aksion.es/">Pilot in Spain ↗︎</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://goji.studio/">GOJI Studio ↗</a></h3>
+<h3><a href="https://goji.studio/">GOJI Studio ↗︎</a></h3>
 <p>AI development and integration for sales, hiring and document workflows. From prototype to use in a company's day-to-day operations.</p>
 <p><strong>Contracts</strong> with retail and healthcare companies.</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<h3><a href="https://yurco.tech/">Yura ↗</a></h3>
+<h3><a href="https://yurco.tech/">Yura ↗︎</a></h3>
 <p>A legal workspace to query connected sources, find relevant laws, compare documents and draft answers with citations.</p>
 <p><strong>Paying users</strong> and a law-firm pilot.</p>
 </td>
 <td valign="top">
-<h3><a href="https://leon-it.tech/">Leon IT ↗</a></h3>
+<h3><a href="https://leon-it.tech/">Leon IT ↗︎</a></h3>
 <p>Asynchronous AI video interviews. Recruiters receive structured reports with rubric-based assessments and supporting evidence.</p>
 <p><strong>Pilots</strong> with IT companies and a bank.</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<h3><a href="https://skrepka.pw/">Skrepka ↗</a></h3>
+<h3><a href="https://skrepka.pw/">Skrepka ↗︎</a></h3>
 <p>Sales calls and negotiation practice with an AI customer, followed by a review of the conversation and feedback.</p>
 <p><strong>Pilots</strong> with a real-estate group and an IT company.</p>
 </td>
 <td valign="top">
-<h3><a href="https://pulsar-tg.ru/">Pulsar ↗</a></h3>
+<h3><a href="https://pulsar-tg.ru/">Pulsar ↗︎</a></h3>
 <p>Finds messages in Telegram chats where people are looking for a service, then sends relevant requests to the business.</p>
 <p><strong>Active clients.</strong></p>
 </td>
@@ -115,14 +115,14 @@ My bachelor's thesis studied apartment asking prices in Saint Petersburg using *
 
 | Repository | What is inside |
 | :--- | :--- |
-| **[Agent Hub ↗](https://github.com/MaximIgitov/agent_hub)** | GitHub issue → pull request → CI → independent review. Python, FastAPI, GitHub Actions. |
-| **[Cup IT 2025 ↗](https://github.com/MaximIgitov/cup_it_25)** | Our winning Data Analytics entry: medical payment analysis and forecasting with SARIMA and Prophet. |
-| **[Hallucination Detection ↗](https://github.com/MaximIgitov/SlovarikDB_Hallucination_Detection)** | Our X5 Tech AI Hack team solution: DeBERTa and LLM-based fact checking. Team repository fork. |
-| **[Cup IT 2024 ↗](https://github.com/MaximIgitov/cup_it_24)** | Our second-place solution for anomaly detection in time series. |
+| **[Agent Hub ↗︎](https://github.com/MaximIgitov/agent_hub)** | GitHub issue → pull request → CI → independent review. Python, FastAPI, GitHub Actions. |
+| **[Cup IT 2025 ↗︎](https://github.com/MaximIgitov/cup_it_25)** | Our winning Data Analytics entry: medical payment analysis and forecasting with SARIMA and Prophet. |
+| **[Hallucination Detection ↗︎](https://github.com/MaximIgitov/SlovarikDB_Hallucination_Detection)** | Our X5 Tech AI Hack team solution: DeBERTa and LLM-based fact checking. Team repository fork. |
+| **[Cup IT 2024 ↗︎](https://github.com/MaximIgitov/cup_it_24)** | Our second-place solution for anomaly detection in time series. |
 
 ---
 
-**Have something in mind?** Open to employment, projects and collaborations.  
-[Message me on Telegram ↗](https://t.me/MaksIgitov) · [mdigitov@itmo.ru](mailto:mdigitov@itmo.ru)
+**Have something in mind?** Open to employment, projects and collaborations.<br>
+[Message me on Telegram ↗︎](https://t.me/MaksIgitov) · [mdigitov@itmo.ru](mailto:mdigitov@itmo.ru)
 
 <!-- Composition reference: Brittany Chiang, https://brittanychiang.com/ — compact experience rows and project summaries. Adapted to native GitHub HTML/Markdown; no source code or personal content copied. -->
